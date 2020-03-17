@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Flexible Gatsby`,
-    description: `I am a web developer focusing on front-end development. Always hungry to keep learning.`,
-    author: `David Freeman`,
+    title: `Kane County Elections`,
+    description: `Learn about who is running in your local elections.`,
+    author: `Kane County Elections`,
     siteUrl: `https://github.com/wangonya/flexible-gatsby`,
     social: {
-      twitter: `wang0nya`,
+      twitter: `couchchamp`,
       facebook: ``,
-      github: `wangonya`,
-      linkedin: `wangonya`,
-      email: `kwangonya@gmail.com`,
+      github: `jeffmiller00`,
+      linkedin: `jeffmiller00`,
+      email: `jeffmiller00@gmail.com`,
     },
   },
   plugins: [
